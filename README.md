@@ -3,9 +3,10 @@
 ========================================================================
 
 [DEVELOPMENT MODEL]
-⚡ Project Type : Vibe Coding Project
-🤖 AI Model     : Gemini 3.1 Flash
-💡 Framework    : Asynchronous AI-Assisted Prompt Engineering
+⚡ Project Type   : Vibe Coding Project
+🤖 AI Model       : Gemini 3.1 Flash
+💡 Framework      : Asynchronous AI-Assisted Prompt Engineering
+📱 Responsiveness : Made for Desktop screen only.
 
 [CREATOR INFORMATION]
 👤 Developer    : Md. Seaum Ibne Mamun
